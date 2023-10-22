@@ -1,5 +1,39 @@
 ## Mona Lisa Smile
 
+### Background Information
+
+- Director: Michael Newell
+- Cast: Julia Roberts
+
+### Language Study
+
+- get the edge —— have advantage over others in a competition
+- wash dirty laundries in public —— make private things known to others
+- <mark>get to sb.</mark> —— make sb. feel upset and angry
+- flex one's muscles —— show off mustles
+- <mark>mind one's p's and q's</mark> —— be careful to one's attention
+- <mark>nudge into</mark> —— gently persuade sb. to do
+- <mark>impeccable</mark> —— 无瑕疵的
+- slap one's wrist —— 轻微责备
+- <mark>get the scoop</mark> —— report news before others
+- in the flesh —— 亲自
+- <mark>conform to</mark> —— be consistent with
+- butt into —— interfere
+- spur-of-the-moment —— do sth. without deep thinking
+- <mark>straighten out</mark> —— clean up
+- <mark>grotesque</mark> —— 怪诞的
+- single out —— 单独对待
+- gussy up —— dress up
+- <mark>with all due respect</mark> —— 恕我直言
+
+### 翻译
+
+- I am every woman. 	我是一个普普通通的女性
+- Do me a favor.      给我个面子
+- break them into small pieces.    将它们分解透析
+- editorial     社论
+- Not all who wander are aimless.     不是所有偏离常规的人都是漫无目的
+
 ## The devil wears Prada
 
 ### Background Information
@@ -9,33 +43,33 @@
 ### language study
 - gird one's loins —— prepare to do sth. **difficult** or **dangerous**
 - **R.S.V.P** —— please reply
-- full of it —— speak nonsense
+- <mark>full of it</mark> —— speak nonsense
 - pull up —— push forward/bring up in position
-- man —— take up position in order to operate sth.
-- errand —— a small trip to do a job
+- man —— **take up position in order to operate sth.**
+- <mark>errand </mark>—— a small trip to do a job 差事
 - cut on the bias —— cut diagonally/cut from corner to corner
 - run-through —— rehearsal
 - ring off the hook —— ring constantly
 - push something up —— to advance the deadline
 - a tough call —— a difficult choice to make
-- stick it out —— endure/put up with
-- get to sb. —— influence or affect, irritate or intimidate
+- <mark>stick it out</mark> —— endure/put up with 忍受
+- <mark>get to sb.</mark> —— influence or affect, irritate or intimidate
 - be on call —— available
-- grill sb. —— question constantly
+- <mark>grill sb. </mark>—— question constantly
 - break —— piece of luck that leads to futher greater success
 - pick on —— criticize unfairly
-- exempt —— excuse from the duty
+- <mark>exempt</mark> —— excuse from the duty 免除
 - deign to do —— 屈尊做某事
-- whine —— express disappointment repeatedly
+- whine —— express disappointment repeatedly 嘀咕
 - screw up —— spoiled
 - beat sb. on the punch —— make the first decisive move
 - have sth. on the file —— in storage
 - be big of sb. —— kind, generous or helpful
-- groudbreaking —— originality and innovation
+- groundbreaking —— originality and innovation
 - chic —— elegant
-- fidget —— make small restless movements
-- whisk away —— move the obstacles rapidly
-- freak out —— a heightened emotional state
+- <mark>fidget</mark> —— make small restless movements 坐立不安
+- <mark>whisk away</mark> —— move the obstacles rapidly
+- <mark>freak out</mark> —— a heightened emotional state 吓一跳
 - own up to sth. —— admit doing
 - cut sb. a check —— pay someone
 
@@ -50,7 +84,7 @@
 - for instance  比如
 - lumpy  松垮的
 - exempt  远离
-- shining beacon  闪耀的灯塔
+- shining <mark>beacon</mark>  闪耀的灯塔
 - sew  缝纫
 - deign to work  屈尊来工作
 - Fashion is not about utility. An accessory is merely a piece of iconography used to express individual identity
@@ -66,9 +100,7 @@
 
 
 
-
-
-
+## 第三部分
 
 
 
