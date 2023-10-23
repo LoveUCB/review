@@ -104,17 +104,17 @@
 
 ## 第三部分
 
-- 讨论题one
+### 讨论题one
 ![image](https://github.com/LoveUCB/review/assets/140378072/528c7ddc-2551-4d9d-9e34-05718e09e51c)
 
-- 讨论题two
+### 讨论题two
 In the movie "The Devil Wears Prada," the ending showcases Andrea's personal growth and self-awareness. Throughout the film, Andrea starts as an idealistic and naive young woman who takes a job as an assistant to Miranda Priestly, a demanding and powerful fashion magazine editor.
 
 As the story progresses, Andrea faces numerous challenges and sacrifices, including long working hours, demanding tasks, and a strained personal life. However, these experiences push her to reevaluate her priorities and question her values. She begins to understand the importance of professionalism, adaptability, and perseverance in the workplace.
 
 By the end of the movie, Andrea realizes that she has changed and that her time working for Miranda has shaped her into a more confident and capable individual. She recognizes the need to make choices that align with her own aspirations and values, even if it means stepping away from the glamorous world of fashion.
 
-- 讨论题three
+### 讨论题three
 Mona Lisa is a famous portrait that always wears a smile, women in that era were same as Mona Lisa, constantly putting on a "smile" for the traditional views. They were taught what to do and strived to meet those expectations, yet nobody bothered to inquire whether they truly desired to fulfill those roles.
 
 Similarly, Mona Lisa's smile, with its beauty lying in the fact that each person interprets it differently, mirrors the individuality of everyone's own path and imagination of the future. 
