@@ -1,3 +1,5 @@
+> produced by Spencer Wang
+
 ## Mona Lisa Smile
 
 ### Background Information
