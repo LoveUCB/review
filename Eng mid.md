@@ -1,5 +1,5 @@
 > produced by Spencer Wang
-> `sys.date()`
+`sys.date()`
 ## Mona Lisa Smile
 
 ### Background Information
